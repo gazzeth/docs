@@ -1,0 +1,2 @@
+# docs
+Gazzeth project documentation
